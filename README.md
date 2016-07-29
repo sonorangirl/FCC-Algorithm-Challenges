@@ -8,48 +8,48 @@
 - [x]  TitleCase a Sentence
 - [x]  Largest Number in Arrays
 - [x]  Confirm the Ending
-- [x]  Repeat After Me
-- [x]  Truncate a String
-- [x]  Chunky Monkey
-- [x]  Slasher Flick
-- [x]  Mutations
-- [x]  Falsy Bouncer
-- [x]  Seek and Destroy
-- [x]  Where do I Belong
-- [x]  Ceasers Cipher
+- [ ]  Repeat After Me
+- [ ]  Truncate a String
+- [ ]  Chunky Monkey
+- [ ]  Slasher Flick
+- [ ]  Mutations
+- [ ]  Falsy Bouncer
+- [ ]  Seek and Destroy
+- [ ]  Where do I Belong
+- [ ]  Ceasers Cipher
 
 ## Intermediate Algorithms
-- [x]  Sum All Numbers
-- [x]  Diff Two Arrays
-- [x]  Roman Numeral Converter
-- [x]  Wherefore Art Thou
-- [x]  Search and Replace
-- [x]  Pig Latin
-- [x]  DNA Pairings
-- [x]  Missing Letters
-- [x]  Boo Who
-- [x]  Sorted Union
-- [x]  Convert HTML Entities
-- [x]  spinal-tap-case
-- [x]  Sum all Odd Fibs
-- [x]  Sum all Primes
-- [x]  Smallest Common Multiple
-- [x]  Finders Keepers
-- [x]  Drop It
-- [x]  Steamroller
-- [x]  Binary Agent
-- [x]  Everything Be True
-- [x]  Arguments Optional
+- [ ]  Sum All Numbers
+- [ ]  Diff Two Arrays
+- [ ]  Roman Numeral Converter
+- [ ]  Wherefore Art Thou
+- [ ]  Search and Replace
+- [ ]  Pig Latin
+- [ ]  DNA Pairings
+- [ ]  Missing Letters
+- [ ]  Boo Who
+- [ ]  Sorted Union
+- [ ]  Convert HTML Entities
+- [ ]  spinal-tap-case
+- [ ]  Sum all Odd Fibs
+- [ ]  Sum all Primes
+- [ ]  Smallest Common Multiple
+- [ ]  Finders Keepers
+- [ ]  Drop It
+- [ ]  Steamroller
+- [ ]  Binary Agent
+- [ ]  Everything Be True
+- [ ]  Arguments Optional
 
 ## Advanced Algorithms
-- [x]  Validate US Phone Numbers
-- [x]  Record Collection
-- [x]  Symmetric Difference
-- [x]  Remove Duplicates
-- [x]  Exact Change
-- [x]  Inventory Update
-- [x]  No Repeats Please
-- [x]  Friendly Date Ranges
-- [x]  Make a Person
-- [x]  Map the Debris
-- [x]  Pairwise
+- [ ]  Validate US Phone Numbers
+- [ ]  Record Collection
+- [ ]  Symmetric Difference
+- [ ]  Remove Duplicates
+- [ ]  Exact Change
+- [ ]  Inventory Update
+- [ ]  No Repeats Please
+- [ ]  Friendly Date Ranges
+- [ ]  Make a Person
+- [ ]  Map the Debris
+- [ ]  Pairwise
