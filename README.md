@@ -8,12 +8,12 @@
 - [x]  TitleCase a Sentence
 - [x]  Largest Number in Arrays
 - [x]  Confirm the Ending
-- [ ]  Repeat After Me
-- [ ]  Truncate a String
-- [ ]  Chunky Monkey
-- [ ]  Slasher Flick
-- [ ]  Mutations
-- [ ]  Falsy Bouncer
+- [x]  Repeat After Me
+- [x]  Truncate a String
+- [x]  Chunky Monkey
+- [x]  Slasher Flick
+- [x]  Mutations
+- [x]  Falsy Bouncer
 - [ ]  Seek and Destroy
 - [ ]  Where do I Belong
 - [ ]  Ceasers Cipher
