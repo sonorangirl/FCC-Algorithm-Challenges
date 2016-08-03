@@ -14,9 +14,9 @@
 - [x]  Slasher Flick
 - [x]  Mutations
 - [x]  Falsy Bouncer
-- [ ]  Seek and Destroy
-- [ ]  Where do I Belong
-- [ ]  Ceasers Cipher
+- [x]  Seek and Destroy
+- [x]  Where do I Belong
+- [x]  Ceasers Cipher
 
 ## Intermediate Algorithms
 - [ ]  Sum All Numbers
