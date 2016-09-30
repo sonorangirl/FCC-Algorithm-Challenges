@@ -19,18 +19,18 @@
 - [x]  Ceasers Cipher
 
 ## Intermediate Algorithms
-- [ ]  Sum All Numbers
-- [ ]  Diff Two Arrays
-- [ ]  Roman Numeral Converter
-- [ ]  Wherefore Art Thou
-- [ ]  Search and Replace
-- [ ]  Pig Latin
-- [ ]  DNA Pairings
-- [ ]  Missing Letters
-- [ ]  Boo Who
-- [ ]  Sorted Union
-- [ ]  Convert HTML Entities
-- [ ]  spinal-tap-case
+- [x]  Sum All Numbers
+- [x]  Diff Two Arrays
+- [x]  Roman Numeral Converter
+- [x]  Wherefore Art Thou
+- [x]  Search and Replace
+- [x]  Pig Latin
+- [x]  DNA Pairings
+- [x]  Missing Letters
+- [x]  Boo Who
+- [x]  Sorted Union
+- [x]  Convert HTML Entities
+- [x]  spinal-tap-case
 - [ ]  Sum all Odd Fibs
 - [ ]  Sum all Primes
 - [ ]  Smallest Common Multiple
