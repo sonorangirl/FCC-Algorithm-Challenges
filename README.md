@@ -31,15 +31,15 @@
 - [x]  Sorted Union
 - [x]  Convert HTML Entities
 - [x]  spinal-tap-case
-- [ ]  Sum all Odd Fibs
-- [ ]  Sum all Primes
-- [ ]  Smallest Common Multiple
-- [ ]  Finders Keepers
-- [ ]  Drop It
-- [ ]  Steamroller
-- [ ]  Binary Agent
-- [ ]  Everything Be True
-- [ ]  Arguments Optional
+- [x]  Sum all Odd Fibs
+- [x]  Sum all Primes
+- [x]  Smallest Common Multiple
+- [x]  Finders Keepers
+- [x]  Drop It
+- [x]  Steamroller
+- [x]  Binary Agent
+- [x]  Everything Be True
+- [x]  Arguments Optional
 
 ## Advanced Algorithms
 - [ ]  Validate US Phone Numbers
