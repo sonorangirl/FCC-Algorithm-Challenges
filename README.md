@@ -42,14 +42,14 @@
 - [x]  Arguments Optional
 
 ## Advanced Algorithms
-- [ ]  Validate US Phone Numbers
-- [ ]  Record Collection
-- [ ]  Symmetric Difference
-- [ ]  Remove Duplicates
-- [ ]  Exact Change
-- [ ]  Inventory Update
-- [ ]  No Repeats Please
-- [ ]  Friendly Date Ranges
-- [ ]  Make a Person
-- [ ]  Map the Debris
-- [ ]  Pairwise
+- [x]  Validate US Phone Numbers
+- [x]  Record Collection
+- [x]  Symmetric Difference
+- [x]  Remove Duplicates
+- [x]  Exact Change
+- [x]  Inventory Update
+- [x]  No Repeats Please
+- [x]  Friendly Date Ranges
+- [x]  Make a Person
+- [x]  Map the Debris
+- [x]  Pairwise
